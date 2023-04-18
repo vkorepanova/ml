@@ -1,6 +1,6 @@
 # ml_examples
-
-1. Градиентный бустинг
-2. height weight
-3. Случайный лес
-4. SVM(машины опорных векторов)
+This repository contains several folders that contain solutions to ML tasks:
+1. Gradient boosting (градиаентный бустинг)
+2. Linreg stochastic grad descent (линейная регрессия и стохастический градиентный спуск)
+4. SVM (машины опорных векторов)
+5. Random forest and Bagging
