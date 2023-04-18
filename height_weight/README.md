@@ -1,3 +1,0 @@
-# linreg
-
-TBD...
